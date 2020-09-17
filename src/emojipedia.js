@@ -19,5 +19,14 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "😡",
+    name: "Pouting Face",
+    meaning:
+      "The pouting face expresses displeasure with a person or situation. Beware, danger of explosion! Furious emoji face. Is annoyed and already sulking with a deep-red face."
   }
 ];
+
+export default emojipedia;
